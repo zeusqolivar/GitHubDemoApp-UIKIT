@@ -1,0 +1,6 @@
+framework module Pods_GitHubDemoApp_UIKIT_GitHubDemoApp_UIKITUITests {
+  umbrella header "Pods-GitHubDemoApp-UIKIT-GitHubDemoApp-UIKITUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
